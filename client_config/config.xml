@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ClientConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <LobbyHost>127.0.0.1</LobbyHost>
+
+  <GameCdnAddress>127.0.0.1</GameCdnAddress>
+  
+  <WebCdnAddress>127.0.0.1</WebCdnAddress>
+
+</ClientConfig>

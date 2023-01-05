@@ -1,0 +1,12 @@
+version: "3.3"
+services:
+  tfu_api_master:
+    build: .
+    restart: always
+    ports:
+      - "80:8000/tcp"
+      - "443:8000/tcp"
+    volumes:
+      - "./ssl:/ssl"
+      - "./files:/files"
+      - "./gamecdn:/gamecdn"

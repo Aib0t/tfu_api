@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PatchInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <Action>None</Action>
+
+  <PatcherUri>patcher-v1.exe</PatcherUri>
+
+  <PatcherSig>MpSjd8xJ1+w4brXY8xRNFtGt2UFYCYlpZC61E/z4vy+gUCAi0CvcVL6vL0IVlHsTL4CDz6zUjD6voHfBemFa6oEgq/retp7yHi3cQAHs04JyYxVviGZ8hErs8httO8ge3H4d52u82DmudPqqlnZcU+IzKtncZ2ywNZV6LuC8ioc=</PatcherSig>
+
+</PatchInfo>
