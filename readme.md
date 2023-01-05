@@ -10,6 +10,10 @@ Code located in `main.py` and is using FastAPI. It servers files from `./gamecnd
 
 The most important script here is `data_packer.py`. It can rebuild server side bundle files from client cache, by automating `disunity`, which you can grab at https://github.com/ata4/disunity
 
+### Gamecnd rebuilder
+
+Second usefull script is `./gamecdn_rebuilder/gamecnd_rebuilder.py`, which can rebuild proper gamecdn folder structure, by using data from `CAB-_Index`. 
+
 ### Client redirection
 
 In order to redirect client to our local server simply put `./client_config/config.xml` into `%user%/AppData/Local/Jagex Ltd/Transformers Universe/tuclient_Data/config.xml`. This will redirect client without any need for additional patching.
