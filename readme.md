@@ -1,5 +1,16 @@
 # Transformers Universe API, bundles generator and stuff
 
+## How to use it
+
+- put `./client_config/config.xml` into `%user%/AppData/Local/Jagex Ltd/Transformers Universe/tuclient_Data/config.xml`
+- Clone Api repo
+- Download cdn files from mega
+- Put cdn files into `%api_cloned_dir%/gamecdn
+- Launch API
+- Launch game
+
+## Info
+
 ### Transformers Universe API
 
 """API""" is a dummy API to pass initial data requests for both standalone client, Web client and to serve gamecdn files.
